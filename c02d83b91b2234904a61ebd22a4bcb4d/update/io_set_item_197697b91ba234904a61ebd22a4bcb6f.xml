@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item">
+    <io_set_item action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <sc_cat_item display_value="Request SPLUNK Report Create/Update">a2d057391b6234904a61ebd22a4bcbfb</sc_cat_item>
+        <sys_class_name>io_set_item</sys_class_name>
+        <sys_created_by>AP\NABMAZU</sys_created_by>
+        <sys_created_on>2021-09-13 08:15:14</sys_created_on>
+        <sys_id>197697b91ba234904a61ebd22a4bcb6f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Request new Splunk report resource.Request Report Update</sys_name>
+        <sys_package display_value="Global Security Monitoring " source="x_iem_global_secur">c02d83b91b2234904a61ebd22a4bcb4d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global Security Monitoring ">c02d83b91b2234904a61ebd22a4bcb4d</sys_scope>
+        <sys_update_name>io_set_item_197697b91ba234904a61ebd22a4bcb6f</sys_update_name>
+        <sys_updated_by>AP\NABMAZU</sys_updated_by>
+        <sys_updated_on>2021-09-13 08:15:14</sys_updated_on>
+        <variable_set display_value="Request new Splunk report">56329f3d1b6234904a61ebd22a4bcb3f</variable_set>
+    </io_set_item>
+</record_update>

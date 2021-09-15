@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new_set">
+    <item_option_new_set action="DELETE">
+        <create_roles/>
+        <description/>
+        <display_title>false</display_title>
+        <internal_name>location_path_for_the</internal_name>
+        <layout>normal</layout>
+        <name/>
+        <order>100</order>
+        <read_roles/>
+        <set_attributes/>
+        <sys_class_name>item_option_new_set</sys_class_name>
+        <sys_created_by>AP\NABMAZU</sys_created_by>
+        <sys_created_on>2021-09-13 08:17:44</sys_created_on>
+        <sys_id>a8d657f91ba234904a61ebd22a4bcb51</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Location/ Path for the </sys_name>
+        <sys_package display_value="Global Security Monitoring " source="x_iem_global_secur">c02d83b91b2234904a61ebd22a4bcb4d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global Security Monitoring ">c02d83b91b2234904a61ebd22a4bcb4d</sys_scope>
+        <sys_update_name>item_option_new_set_a8d657f91ba234904a61ebd22a4bcb51</sys_update_name>
+        <sys_updated_by>AP\NABMAZU</sys_updated_by>
+        <sys_updated_on>2021-09-13 08:17:44</sys_updated_on>
+        <title>Location/ Path for the </title>
+        <type>one_to_one</type>
+        <write_roles/>
+    </item_option_new_set>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Global Security Monitoring ">c02d83b91b2234904a61ebd22a4bcb4d</application>
+        <file_path/>
+        <instance_id>c383490ddb92b700387021c405961992</instance_id>
+        <instance_name>emcitizendev</instance_name>
+        <name>item_option_new_set_a8d657f91ba234904a61ebd22a4bcb51</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new_set"><item_option_new_set action="INSERT_OR_UPDATE"><create_roles/><description/><display_title>false</display_title><internal_name>location_path_for_the</internal_name><layout>normal</layout><name/><order>100</order><read_roles/><set_attributes/><sys_class_name>item_option_new_set</sys_class_name><sys_created_by>AP\NABMAZU</sys_created_by><sys_created_on>2021-09-13 08:17:44</sys_created_on><sys_id>a8d657f91ba234904a61ebd22a4bcb51</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Location/ Path for the </sys_name><sys_package display_value="Global Security Monitoring " source="x_iem_global_secur">c02d83b91b2234904a61ebd22a4bcb4d</sys_package><sys_policy/><sys_scope display_value="Global Security Monitoring ">c02d83b91b2234904a61ebd22a4bcb4d</sys_scope><sys_update_name>item_option_new_set_a8d657f91ba234904a61ebd22a4bcb51</sys_update_name><sys_updated_by>AP\NABMAZU</sys_updated_by><sys_updated_on>2021-09-13 08:17:44</sys_updated_on><title>Location/ Path for the </title><type>one_to_one</type><write_roles/></item_option_new_set></record_update>]]></payload>
+        <payload_hash>361884836</payload_hash>
+        <record_name>Location/ Path for the </record_name>
+        <reverted_from/>
+        <source>029d473d1b2234904a61ebd22a4bcb08</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>AP\NABMAZU</sys_created_by>
+        <sys_created_on>2021-09-13 08:17:44</sys_created_on>
+        <sys_id>42071bf91ba234904a61ebd22a4bcb45</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17bde3bc7970000001</sys_recorded_at>
+        <sys_updated_by>AP\NABMAZU</sys_updated_by>
+        <sys_updated_on>2021-09-13 08:17:44</sys_updated_on>
+        <type>Variable Set</type>
+        <update_guid>4a071bf98ba23490511139d55504d944</update_guid>
+        <update_guid_history>4a071bf98ba23490511139d55504d944:361884836</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Location/ Path for the ">b2179b3d1ba234904a61ebd22a4bcb60</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>AP\NABMAZU</sys_created_by>
+        <sys_created_on>2021-09-13 08:18:03</sys_created_on>
+        <sys_db_object display_value="" name="item_option_new_set">item_option_new_set</sys_db_object>
+        <sys_id>6688ec3ad53041d8baf49131900399a4</sys_id>
+        <sys_metadata>a8d657f91ba234904a61ebd22a4bcb51</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Location/ Path for the </sys_name>
+        <sys_package display_value="Global Security Monitoring " source="x_iem_global_secur">c02d83b91b2234904a61ebd22a4bcb4d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Global Security Monitoring ">c02d83b91b2234904a61ebd22a4bcb4d</sys_scope>
+        <sys_scope_delete display_value="">901d9869273144049ac34aeb8605e6e4</sys_scope_delete>
+        <sys_update_name>item_option_new_set_a8d657f91ba234904a61ebd22a4bcb51</sys_update_name>
+        <sys_update_version display_value="item_option_new_set_a8d657f91ba234904a61ebd22a4bcb51">42071bf91ba234904a61ebd22a4bcb45</sys_update_version>
+        <sys_updated_by>AP\NABMAZU</sys_updated_by>
+        <sys_updated_on>2021-09-13 08:18:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

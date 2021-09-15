@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>GSM Request</description>
+        <device_type>browser</device_type>
+        <hint>GSM Request</hint>
+        <name/>
+        <order/>
+        <roles>x_iem_global_secur.admin gsm,x_iem_global_secur.user gsm</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>AP\NABMAZU</sys_created_by>
+        <sys_created_on>2021-09-13 07:44:31</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>936f4bfd1b2234904a61ebd22a4bcb9a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Global Security Monitoring </sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Global Security Monitoring " source="x_iem_global_secur">c02d83b91b2234904a61ebd22a4bcb4d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global Security Monitoring ">c02d83b91b2234904a61ebd22a4bcb4d</sys_scope>
+        <sys_update_name>sys_app_application_936f4bfd1b2234904a61ebd22a4bcb9a</sys_update_name>
+        <sys_updated_by>AP\NABMAZU</sys_updated_by>
+        <sys_updated_on>2021-09-13 07:44:31</sys_updated_on>
+        <title>Global Security Monitoring </title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
